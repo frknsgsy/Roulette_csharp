@@ -1,0 +1,14 @@
+C:\Users\Furkan\source\repos\rulet\bin\Debug\net8.0\rulet.exe
+C:\Users\Furkan\source\repos\rulet\bin\Debug\net8.0\rulet.deps.json
+C:\Users\Furkan\source\repos\rulet\bin\Debug\net8.0\rulet.runtimeconfig.json
+C:\Users\Furkan\source\repos\rulet\bin\Debug\net8.0\rulet.dll
+C:\Users\Furkan\source\repos\rulet\bin\Debug\net8.0\rulet.pdb
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\rulet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\rulet.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\rulet.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\rulet.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\rulet.dll
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\refint\rulet.dll
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\rulet.pdb
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\rulet.genruntimeconfig.cache
+C:\Users\Furkan\source\repos\rulet\obj\Debug\net8.0\ref\rulet.dll
