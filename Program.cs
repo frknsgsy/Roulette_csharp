@@ -6,7 +6,7 @@ namespace rulet
     {
         static void Main(string[] args)
         {
-        //rulet
+        //rulet 
         back2:
 
             string hesapbakiye = @"C:\Users\Furkan\source\repos\rulet\ruletbakiye.txt";
